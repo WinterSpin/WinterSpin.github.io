@@ -5,7 +5,7 @@ HTML = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hello World</title>
+    <title>Hello World. 123</title>
     <script src="/script.js"></script>
 </head>
 <body style="display:flex; justify-content:center; align-items:center; height:100vh; margin:0;">
